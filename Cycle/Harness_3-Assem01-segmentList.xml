@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<segmentData xmlns='http://www.solidworks.com/segmentData'>
+    <segment ID='1'>
+        <properties>
+            <Name value='CPoint1@ring_term_awg-14-16_awg-x 8-1@Harness_3-Assem01:JP2@Harness_3-Assem01'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP7'/>
+            <Length value='0.004470'/>
+            <AdditionalLength value='0.014470'/>
+            <FromLocation value='0.815644,0.692993,0.562933'/>
+            <ToLocation value='0.819921,0.692028,0.562062'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004500'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='2'>
+        <properties>
+            <Name value='CPoint1@ring_term_awg-14-16_awg-x 8-2@Harness_3-Assem01:JP7@Harness_3-Assem01'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP10'/>
+            <Length value='0.004470'/>
+            <AdditionalLength value='0.014470'/>
+            <FromLocation value='0.819131,0.699834,0.578653'/>
+            <ToLocation value='0.823375,0.700799,0.577634'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004500'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='5'>
+        <properties>
+            <Name value='CPoint1@ring_term_awg-14-16_awg-x 8-5@Harness_3-Assem01:JP7@Harness_3-Assem01'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP10'/>
+            <Length value='0.673077'/>
+            <AdditionalLength value='0.683077'/>
+            <FromLocation value='0.828966,0.167848,0.644622'/>
+            <ToLocation value='0.823375,0.700799,0.577634'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.001118'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='6'>
+        <properties>
+            <Name value='CPoint1@ring_term_awg-14-16_awg-x 8-6@Harness_3-Assem01:JP2@Harness_3-Assem01'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP7'/>
+            <Length value='0.649772'/>
+            <AdditionalLength value='0.659772'/>
+            <FromLocation value='0.847996,0.168500,0.644622'/>
+            <ToLocation value='0.819921,0.692028,0.562062'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.001118'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='7'>
+        <properties>
+            <Name value='CPoint1@ring_term_awg-14-16_awg-x 8-4@Harness_3-Assem01:JP2@Harness_3-Assem01'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP7'/>
+            <Length value='1.153294'/>
+            <AdditionalLength value='1.163294'/>
+            <FromLocation value='-0.057938,0.250114,0.636367'/>
+            <ToLocation value='0.819921,0.692028,0.562062'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.000200'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='8'>
+        <properties>
+            <Name value='CPoint1@ring_term_awg-14-16_awg-x 8-3@Harness_3-Assem01:JP7@Harness_3-Assem01'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP10'/>
+            <Length value='1.131249'/>
+            <AdditionalLength value='1.141249'/>
+            <FromLocation value='-0.040380,0.257482,0.636367'/>
+            <ToLocation value='0.823375,0.700799,0.577634'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.000200'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+</segmentData>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<segmentData xmlns='http://www.solidworks.com/segmentData'>
+    <segment ID='1'>
+        <properties>
+            <Name value='CPoint1@ring_term_awg-14-16_awg-x 8-1@Harness_5-Assem01:JP1@Harness_5-Assem01'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP1'/>
+            <Length value='0.004470'/>
+            <AdditionalLength value='0.014470'/>
+            <FromLocation value='-0.040380,0.257482,0.636367'/>
+            <ToLocation value='-0.035910,0.257482,0.636367'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.001118'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+</segmentData>
